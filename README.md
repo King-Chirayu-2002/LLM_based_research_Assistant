@@ -28,13 +28,13 @@
 ## 🖼️ Screenshots
 
 ### 🔹 Upload a Research Paper
-![Upload Screenshot](./screenshots/upload.png)
+![Upload Screenshot](./screenshots/uploading_part_big.png)
 
 ### 🔹 Ask a Question & Get AI Response
-![Q&A Screenshot](./screenshots/qa.png)
+![Q&A Screenshot](./screenshots/response_part.png)
 
 ### 🔹 System Architecture
-![Architecture](./screenshots/architecture.png)
+![Architecture](./screenshots/Architecture.png)
 
 ---
 
