@@ -42,7 +42,7 @@
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/AI-Research-Assistant-Azure.git
+git clone https://github.com/King-Chirayu-2002/AI-Research-Assistant-Azure.git
 cd AI-Research-Assistant-Azure
 ```
 
